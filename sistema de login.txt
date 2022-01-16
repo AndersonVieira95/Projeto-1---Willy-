@@ -1,2 +1,2 @@
-usuário: 
-senha: 
+Insira seu usuário ou e-mail: 
+Insira sua senha: 
